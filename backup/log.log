@@ -1,0 +1,10 @@
+Please provide a file to back up
+Backup of bash created at /home/ubuntu/backup/file-backup-2025-04-20-19-07-53.tar.gz
+Backup of /home/ubuntu/bash created at /home/ubuntu/backup/file-backup-2025-04-20-19-30-00.tar.gz
+Failed to upload file-backup-2025-04-20-19-30-00.tar.gz to S3 bucket backup-bash
+Backup of /home/ubuntu/bash created at /home/ubuntu/backup/file-backup-2025-04-20-19-33-32.tar.gz
+Backup file file-backup-2025-04-20-19-33-32.tar.gz uploaded to S3 bucket backup-bash successfully
+Backup of /home/ubuntu/bash created at /home/ubuntu/backup/file-backup-2025-04-20-19-42-01.tar.gz
+Backup file file-backup-2025-04-20-19-42-01.tar.gz uploaded to S3 bucket backup-bash successfully
+Backup of /home/ubuntu/bash created at /home/ubuntu/backup/file-backup-2025-04-20-19-44-01.tar.gz
+Backup file file-backup-2025-04-20-19-44-01.tar.gz uploaded to S3 bucket backup-bash successfully
